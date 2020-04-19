@@ -5,7 +5,7 @@ date: 2020-04-19T22:07:53.066Z
 title: >-
   Abba Kyari: President Buhari Reportedly Appoints Babagana Kingibe As New Chief
   Of Staff
-thumbnail: /assets/image-3.jpg
+thumbnail: /assets/babangana.jpg
 ---
 <!--StartFragment-->
 
